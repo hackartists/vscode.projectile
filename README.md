@@ -1,6 +1,7 @@
 # projectile
 
-This is the README for your extension "projectile". After writing up a brief description, we recommend including the following sections.
+`projectile` is an alternatives for emacs projectil package in vscode.
+It manages git projects in a workspace rather than separated windows.
 
 ## Features
 
