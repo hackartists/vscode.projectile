@@ -9,10 +9,10 @@ When you open a file in git repository, thie extension will automatically add th
 And you can find the projects, which you previously opened, by `Projectile: List Projects`.
 After selecting a project, it shows up all of files in the git project.
 
-\!\[Projectile Menus\]\(images/projectile-menu.png\)
-\!\[List Projects\]\(images/projectile-projects.png\)
-\!\[List Files in a Project\]\(images/projectile-files.png\)
-\!\[Project Explorer\]\(images/projectile-explorer.png\)
+![Projectile Menus](images/projectile-menu.png)
+![List Projects](images/projectile-projects.png)
+![List Files in a Project](images/projectile-files.png)
+![Project Explorer](images/projectile-explorer.png)
 
 ## Release Notes
 
