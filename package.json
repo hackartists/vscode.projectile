@@ -2,7 +2,7 @@
   "name": "projectile",
   "displayName": "projectile",
   "description": "projectile is an alternatives of emacs projectile.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "hackartist",
   "author": {
     "name": "hackartist"
@@ -11,12 +11,13 @@
     "type": "git",
     "url": "https://github.com/hackartists/vscode.projectile.git"
   },
-
   "engines": {
     "vscode": "^1.52.0"
   },
   "enableProposedApi": true,
-  "categories": ["Other"],
+  "categories": [
+    "Other"
+  ],
   "activationEvents": [
     "onCommand:projectile.projectFiles",
     "onCommand:projectile.projects"
