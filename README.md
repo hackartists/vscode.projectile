@@ -11,7 +11,7 @@ After selecting a project, it shows up all of files in the git project.
 
 ![Projectile Menus](images/projectile-menu.png)
 ![List Projects](images/projectile-projects.png)
-![List Files in a Project](images/projectile-files.png)
+![List Files in a Project](images/project-files.png)
 ![Project Explorer](images/projectile-explorer.png)
 
 ## Release Notes
