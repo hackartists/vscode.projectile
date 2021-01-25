@@ -14,10 +14,7 @@
   "engines": {
     "vscode": "^1.52.0"
   },
-  "enableProposedApi": true,
-  "categories": [
-    "Other"
-  ],
+  "categories": ["Other"],
   "activationEvents": [
     "onCommand:projectile.projectFiles",
     "onCommand:projectile.projects"
